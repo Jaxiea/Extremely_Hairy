@@ -47,9 +47,9 @@ void shape_drawing(){
   
    beginShape(LINES);
    pushMatrix();
-   translate(width/2, height/2, 0);
-   rotateY(PI/spin);
-   rotate(radians(rotation));
+   //translate(width/2, height/2, 0);
+   //rotateY(PI/spin);
+   //rotate(radians(rotation));
    stroke(0);
    if (random(4)>3.9){
      stroke(#FF0000);
