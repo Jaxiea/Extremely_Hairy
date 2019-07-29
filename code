@@ -36,7 +36,7 @@ void draw(){
   
    shape_drawing();
   
-  spin += 0.01; 
+//  spin += 0.01; 
 
 
   
